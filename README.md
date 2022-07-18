@@ -9,8 +9,12 @@ You MUST have [RBVREnhanced](https://github.com/RBEnhanced/RBVREnhanced) install
 ## Important Notes
 
 The RB1-4 Base Multiplier Track Speeds are designed to be used in conjunction with the non-VR RB4 Track patch.
+
 If used with the default track or the VR mode RB4 track, it will be very fast.
+
 The inverse is true for the RBVR base multiplier speeds.
+
+Transparent Highway and No track sides doesn't work with the default highway.
 
 The non-VR RB4 Track has many issues currently, specifically:
 * No pausing
