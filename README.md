@@ -8,9 +8,7 @@ You MUST have [RBVREnhanced](https://github.com/RBEnhanced/RBVREnhanced) install
 
 ## Important Notes
 
-The RB1-4 Base Multiplier Track Speeds are designed to be used in conjunction with the non-VR RB4 Track patch.
-
-If used with the default track or the VR mode RB4 track, it will be very fast.
+The RB1-4 Base Multiplier Track Speeds are designed to be used in conjunction with the non-VR RB4 Track patch, if used with the default track or the VR mode RB4 track, it will be very fast.
 
 The inverse is true for the RBVR base multiplier speeds.
 
