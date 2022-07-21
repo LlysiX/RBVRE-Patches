@@ -2,9 +2,15 @@
 
 Mix and match to your liking, these patches include many ways to change/improve the experience of RBVR.
 
-Place the rawfiles folders of the patches you want into the root of your RBVR install.
-
 You MUST have [RBVREnhanced](https://github.com/RBEnhanced/RBVREnhanced) installed for these to work.
+
+## Installation
+
+You can add these to RBVR in 2 different ways:
+
+1. Download [Rock Band VR Enhanced Launcher](https://github.com/LlysiX/RBVRE-Launcher), drag the patch folders onto the window, select your RBVR Folder, and Run RBVR
+
+2. Place the rawfiles folders of the patches you want into the root of your RBVR install. Then simply Run rbvr.exe
 
 ## Important Notes
 
