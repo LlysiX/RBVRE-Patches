@@ -20,7 +20,9 @@ The RB1-4 Base Multiplier Track Speeds are designed to be used in conjunction wi
 
 The inverse is true for the RBVR base multiplier speeds.
 
-Transparent Highway and No track sides doesn't work with the default highway.
+Custom Highways have been added to RBVREnhanced Launcher. It currently does not work with the default highway.
+
+No track sides doesn't work with the default highway.
 
 The non-VR RB4 Track has many issues currently, specifically:
 * No pausing (currntly half works, you have to unplug your guitar)
