@@ -25,7 +25,7 @@ Custom Highways have been added to RBVREnhanced Launcher. It currently does not 
 No track sides doesn't work with the default highway.
 
 The non-VR RB4 Track has many issues currently, specifically:
-* No pausing (currntly half works, you have to unplug your guitar)
+* No pausing (currntly half works, you have to unplug your guitar/VR headset)
 * No SFX and extremely loud song audio
 * No HUD
 * No beatlines or sustain tails
