@@ -28,6 +28,6 @@ The non-VR RB4 Track has many issues currently, specifically:
 * No pausing (currntly half works, you have to unplug your guitar/VR headset)
 * No SFX and extremely loud song audio
 * No HUD
-* No beatlines or sustain tails
+* ~~No beatlines~~ (fixed August 27, 2023) or sustain tails
 * Missing Textures/Animations
 * ~~Not fully visible~~ (Fixed July 15, 2022)
